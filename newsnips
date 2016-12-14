@@ -1,8 +1,8 @@
 ##Here are some of my code snippets
 #created Dece 14, 2016
 
-ssh -XY adamskj@acc.psych.unc.edu
+ssh -XY username@domain
 
 #secure copy if on the computer that you want to copy to: 
 
-#scp adamskj@acc.unc.edu: /file/to/send /where/to/put
+#scp username@domain: /file/to/send /where/to/put
