@@ -1,0 +1,8 @@
+##Here are some of my code snippets
+#created Dece 14, 2016
+
+ssh -XY adamskj@acc.psych.unc.edu
+
+#secure copy if on the computer that you want to copy to: 
+
+#scp adamskj@acc.unc.edu: /file/to/send /where/to/put
